@@ -1,4 +1,4 @@
-# NYU Tandon LeetCode Bootcamp
+# LeetCode Bootcamp
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=5% height=5% alt="Waving hand">
 
